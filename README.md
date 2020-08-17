@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# marvapp
+# Marvlight Tutors
 
 A new Flutter project.
 

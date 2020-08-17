@@ -1,5 +1,5 @@
 # Marvlight Tutors
-#### Marvligh Tutors App Screenshots
+#### Marvlight Tutors App Screenshots
 <table>
   <tr>
     <td>Welcome Screen</td>
@@ -14,7 +14,6 @@
  </table>
 <strong>Description</strong>
 # marvlight-tutors
+A Cross Platform Mobile App that connects Parents, Students, Clients with Professional Private Tutors and Researchers proudly made with Flutter/Dart
 
-A Mobile App that connects Parents,Students with Professional Private Tutors and Researchers proudly made with Flutter/Dart
->>>>>>> 669c1878ef6e2ba8e27b9b44607a670788cd0e11
 

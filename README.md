@@ -1,8 +1,8 @@
 # Marvlight Tutors
 <img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="200" />
-<img src="https://user-images.githubusercontent.com/48892912/90362545-c7ad7900-e058-11ea-80a8-269b01fae8b4.png" width="100") />
-![Marvlight 2](https://user-images.githubusercontent.com/48892912/90362431-86b56480-e058-11ea-848a-6ec907f362dc.png)
-![Marvlight 3](https://user-images.githubusercontent.com/48892912/90362438-8b7a1880-e058-11ea-94c4-4379ff9fadf1.png)
+<img src="https://user-images.githubusercontent.com/48892912/90362545-c7ad7900-e058-11ea-80a8-269b01fae8b4.png" width="200" />
+<img src="https://user-images.githubusercontent.com/48892912/90362431-86b56480-e058-11ea-848a-6ec907f362dc.png" width="200" />
+<img src="https://user-images.githubusercontent.com/48892912/90362438-8b7a1880-e058-11ea-94c4-4379ff9fadf1.png" width="200" />
 
 A new Flutter project.
 

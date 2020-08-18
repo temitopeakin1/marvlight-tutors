@@ -12,8 +12,8 @@
     <td><img src="https://user-images.githubusercontent.com/48892912/90362438-8b7a1880-e058-11ea-94c4-4379ff9fadf1.png" width=270 height=480></td>
   </tr>
  </table>
-<strong>Description</strong>
-# marvlight-tutors
+<strong>Description</strong><br>
+# marvlight-tutors </br>
 A Cross Platform Mobile App that connects Parents, Students, Clients with Professional Private Tutors and Researchers proudly made with Flutter/Dart
 
 

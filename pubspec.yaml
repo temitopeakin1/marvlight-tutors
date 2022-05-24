@@ -1,0 +1,80 @@
+name: marvapp
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.0+4
+  animated_widgets: ^1.0.3
+  firebase_database: ^3.1.5
+  firebase_core: any
+  shared_preferences: ^0.5.7+3
+  url_launcher: ^5.5.0
+  liquid_swipe: ^1.5.0
+ 
+  cupertino_icons: ^1.0.2
+  splashscreen: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/marv.png
+    - assets/images/tutorhome.jpg
+    - assets/images/tutorhome1.jpg
+    - assets/icons/study.png
+    - assets/icons/shield.png
+    - assets/icons/class.png
+    - assets/icons/excellence.png
+    - assets/icons/mclass.png
+    - assets/icons/reading.png
+    - assets/icons/tutor.png
+    - assets/icons/phone.png
+    - assets/icons/whatsapp.png
+    - assets/icons/mail.png
+    - assets/icons/twitter.png
+    - assets/icons/facebook.png
+    - assets/images/applytutor.png
+    - assets/images/getconnected.png
+    - assets/images/gettutor.png
+    - assets/images/project.png
+    - assets/icons/practical.jpg
+      
+   
+
+  
+  example:
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+         
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto-Bold.ttf
+
+    - family: Comic Sans
+      fonts:
+        - asset: fonts/ComicSansMS3.ttf
+
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Regular.ttf
+
+    - family: Source Sans Pro
+      fonts:
+        - asset: fonts/SourceSansPro-SemiBold.ttf
+       
+        
+  
+ 

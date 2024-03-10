@@ -1,35 +1,51 @@
 name: marvapp
 description: A new Flutter project.
-
-
-version: 1.0.0+1
+version: 1.0.0+7
 
 environment:
-  sdk: ">=2.2.2 <3.0.0"
+  sdk: ">=2.17.2 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.12.0+4
+  http: ^1.1.2
   animated_widgets: ^1.0.3
-  firebase_database: ^3.1.5
-  firebase_core: any
-  shared_preferences: ^0.5.7+3
-  url_launcher: ^5.5.0
-  liquid_swipe: ^1.5.0
- 
- 
-  cupertino_icons: ^0.1.2
-  splashscreen: ^1.2.0
-  
- 
+  firebase_database: ^10.3.6
+  firebase_core_platform_interface: ^5.0.0
+  firebase_core: ^2.24.0
+  url_launcher_platform_interface: ^2.0.3
+  plugin_platform_interface: ^2.0.0
+  liquid_swipe: ^3.0.0
+  change_app_package_name: ^1.1.0
+  datetime_picker_formfield: ^2.0.0
+  intl: ^0.18.1
+  rename: ^3.0.1
+  africa_schools: ^1.0.1
+  cupertino_icons: ^1.0.6
+  flutter_native_splash: ^2.2.4
+  animated_splash_screen: ^1.3.0 
+  multiselect_formfield: ^0.1.7 
+  get: ^4.6.5
+  flutter_spinkit: ^5.1.0
+  multiselect: ^0.1.0
+  url_launcher: ^6.2.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-    
-flutter:
   
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon_logo.png"
+
+
+  flutter_lints: ^1.0.0
+
+
+     
+flutter:
     uses-material-design: true
 
  
